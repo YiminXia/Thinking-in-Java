@@ -6,7 +6,7 @@ import java.util.Collection;
 /**
  * Created by sunlandsxym on 2017/7/2.
  */
-public class SimpleCollection {
+public class SimpleCollection11_2{
     public static void main(String[] args){
         Collection<Integer> c=new ArrayList<Integer>();
         for(int i=0;i<10;i++){

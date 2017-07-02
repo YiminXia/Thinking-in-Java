@@ -12,7 +12,7 @@ class Oranges{
 
 }
 
-public class ApplesAndOrangesWithoutGenerics {
+public class ApplesAndOrangesWithoutGenerics11_1 {
     @SuppressWarnings("unchecked")
     public static void main(String[] args) {
         /**

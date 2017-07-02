@@ -12,7 +12,7 @@ class Fuji extends Apple{}
 class Breaburm extends Apple{}
 
 
-public class GenericsAndUpcasting {
+public class GenericsAndUpcasting11_1 {
     public static void main(String[] args){
         ArrayList<Apple> apples=new ArrayList<Apple>();
         apples.add(new GrannySmith());//可以将Apple的子类型添加到被指定的，专门保存Apple对象的容器中
